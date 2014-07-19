@@ -24,11 +24,10 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m8/proprietary/bin/mm-qcamera-app:/system/bin/mm-qcamera-app \
         vendor/htc/m8/proprietary/bin/mm-qcamera-daemon:/system/bin/mm-qcamera-daemon \
         vendor/htc/m8/proprietary/bin/mpdecision:/system/bin/mpdecision \
-	vendor/htc/m8/proprietary/bin/pnpmgr:/system/bin/pnpmgr \
         vendor/htc/m8/proprietary/bin/ptt_socket_app:/system/bin/ptt_socket_app \
         vendor/htc/m8/proprietary/bin/qseecomd:/system/bin/qseecomd \
         vendor/htc/m8/proprietary/bin/rmt_storage:/system/bin/rmt_storage \
-	vendor/htc/m8/proprietary/bin/thermal-engine:/system/bin/thermal-engine \
+        vendor/htc/m8/proprietary/bin/thermal-engine:/system/bin/thermal-engine \
         vendor/htc/m8/proprietary/bin/time_daemon:/system/bin/time_daemon \
         vendor/htc/m8/proprietary/blobs/gsm/bin/netmgrd:/system/blobs/gsm/bin/netmgrd \
         vendor/htc/m8/proprietary/blobs/gsm/bin/qmuxd:/system/blobs/gsm/bin/qmuxd \
@@ -136,7 +135,6 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m8/proprietary/etc/hldm.bin:/system/etc/hldm.bin \
         vendor/htc/m8/proprietary/etc/hltof.bin:/system/etc/hltof.bin \
         vendor/htc/m8/proprietary/etc/hltrd.bin:/system/etc/hltrd.bin \
-	vendor/htc/m8/proprietary/etc/pnp.bin:/system/etc/pnp.bin \
         vendor/htc/m8/proprietary/etc/RT5501:/system/etc/RT5501 \
         vendor/htc/m8/proprietary/etc/sound_mfg_DMIC.txt:/system/etc/sound_mfg_DMIC.txt \
         vendor/htc/m8/proprietary/etc/sound_mfg.txt:/system/etc/sound_mfg.txt \
@@ -264,7 +262,6 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m8/proprietary/vendor/lib/egl/libEGL_adreno.so:/system/vendor/lib/egl/libEGL_adreno.so \
         vendor/htc/m8/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:/system/vendor/lib/egl/libGLESv1_CM_adreno.so \
         vendor/htc/m8/proprietary/vendor/lib/egl/libGLESv2_adreno.so:/system/vendor/lib/egl/libGLESv2_adreno.so \
-        vendor/htc/m8/proprietary/vendor/lib/egl/libplayback_adreno.so:/system/vendor/lib/egl/libplayback_adreno.so \
         vendor/htc/m8/proprietary/vendor/lib/egl/libq3dtools_adreno.so:/system/vendor/lib/egl/libq3dtools_adreno.so \
         vendor/htc/m8/proprietary/vendor/lib/libacdbloader.so:/system/vendor/lib/libacdbloader.so \
         vendor/htc/m8/proprietary/vendor/lib/libacdbmapper.so:/system/vendor/lib/libacdbmapper.so \
