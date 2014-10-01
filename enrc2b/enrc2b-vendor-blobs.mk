@@ -63,14 +63,11 @@ PRODUCT_COPY_FILES += \
   vendor/htc/enrc2b/proprietary/etc/uilock.yuv:system/etc/uilock.yuv \
   vendor/htc/enrc2b/proprietary/etc/voicemail-conf.xml:system/etc/voicemail-conf.xml \
   vendor/htc/enrc2b/proprietary/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
-  vendor/htc/enrc2b/proprietary/lib/egl/libEGL_perfhud.so:system/lib/egl/libEGL_perfhud.so \
   vendor/htc/enrc2b/proprietary/lib/egl/libEGL_tegra_impl.so:system/lib/egl/libEGL_tegra_impl.so \
   vendor/htc/enrc2b/proprietary/lib/egl/libEGL_tegra.so:system/lib/egl/libEGL_tegra.so \
   vendor/htc/enrc2b/proprietary/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
-  vendor/htc/enrc2b/proprietary/lib/egl/libGLESv1_CM_perfhud.so:system/lib/egl/libGLESv1_CM_perfhud.so \
   vendor/htc/enrc2b/proprietary/lib/egl/libGLESv1_CM_tegra_impl.so:system/lib/egl/libGLESv1_CM_tegra_impl.so \
   vendor/htc/enrc2b/proprietary/lib/egl/libGLESv1_CM_tegra.so:system/lib/egl/libGLESv1_CM_tegra.so \
-  vendor/htc/enrc2b/proprietary/lib/egl/libGLESv2_perfhud.so:system/lib/egl/libGLESv2_perfhud.so \
   vendor/htc/enrc2b/proprietary/lib/egl/libGLESv2_tegra_impl.so:system/lib/egl/libGLESv2_tegra_impl.so \
   vendor/htc/enrc2b/proprietary/lib/egl/libGLESv2_tegra.so:system/lib/egl/libGLESv2_tegra.so \
   vendor/htc/enrc2b/proprietary/lib/hw/audio.primary.tegra.so:system/lib/hw/audio.primary.tegra.so \
@@ -117,6 +114,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc/enrc2b/proprietary/lib/libnvcapclk.so:system/lib/libnvcapclk.so \
   vendor/htc/enrc2b/proprietary/lib/libnvcap.so:system/lib/libnvcap.so \
   vendor/htc/enrc2b/proprietary/lib/libnvcap_video.so:system/lib/libnvcap_video.so \
+  vendor/htc/enrc2b/proprietary/lib/libnvcpl.so:system/lib/libnvcpl.so \
   vendor/htc/enrc2b/proprietary/lib/libnvcontrol_jni.so:system/lib/libnvcontrol_jni.so \
   vendor/htc/enrc2b/proprietary/lib/libnvddk_2d.so:system/lib/libnvddk_2d.so \
   vendor/htc/enrc2b/proprietary/lib/libnvddk_2d_v2.so:system/lib/libnvddk_2d_v2.so \

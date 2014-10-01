@@ -91,10 +91,6 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m8/proprietary/blobs/vzw/vendor/lib/libqmi.so:/system/blobs/vzw/vendor/lib/libqmi.so \
         vendor/htc/m8/proprietary/blobs/vzw/vendor/lib/libril-qc-qmi-1.so:/system/blobs/vzw/vendor/lib/libril-qc-qmi-1.so \
         vendor/htc/m8/proprietary/blobs/vzw/vendor/lib/libril-qcril-hook-oem.so:/system/blobs/vzw/vendor/lib/libril-qcril-hook-oem.so \
-        vendor/vanir/proprietary/vzw/etc/permissions/com.vzw.hardware.ehrpd.xml:system/blobs/vzw/etc/permissions/com.vzw.hardware.ehrpd.xml \
-        vendor/vanir/proprietary/vzw/etc/permissions/com.vzw.hardware.lte.xml:system/blobs/vzw/etc/permissions/com.vzw.hardware.lte.xml \
-        vendor/vanir/proprietary/vzw/etc/permissions/com.vzw.vzwapnlib.xml:system/blobs/vzw/etc/permissions/com.vzw.vzwapnlib.xml \
-        vendor/vanir/proprietary/vzw/lib/libmotricity.so:system/blobs/vzw/lib/libmotricity.so \
         vendor/htc/m8/proprietary/etc/Bluetooth_cal.acdb:/system/etc/Bluetooth_cal.acdb \
         vendor/htc/m8/proprietary/etc/Bluetooth_cal_recovery.acdb:/system/etc/Bluetooth_cal_recovery.acdb \
         vendor/htc/m8/proprietary/etc/cir.img:/system/etc/cir.img \
